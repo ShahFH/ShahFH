@@ -21,7 +21,7 @@ Hey there! I'm Shah Faisal, an experienced Software Developer with a passion for
 ## Links 🔗
 
 - [LinkedIn](https://www.linkedin.com/in/shah-faisal-h/)
-- [GitHub](https://github.com/ShahFH)
+- [Instagram](https://www.instagram.com/shahfaisal.swe/)
 
 ## Let's Connect! 🤝
 
