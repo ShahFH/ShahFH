@@ -27,6 +27,6 @@ Hey there! I'm Shah Faisal, an experienced Software Developer with a passion for
 
 ## Let's Connect! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shah-faisal-h/) or check out my projects on [GitHub](https://github.com/ShahFH).
+I'm always open to new opportunities and collaborations.👏 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shah-faisal-h/) or check out my projects on [GitHub](https://github.com/ShahFH).
 
 Looking forward to connecting with you! 😊
