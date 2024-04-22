@@ -11,4 +11,6 @@ Hey there! I'm Shah Faisal, an experienced Software Developer with a passion for
 - 📣  Excellent analytical and communication skills to collaborate with cross-functional teams.
 
 > OpenToWork
+> 
+> My projects: <a href="https://shahfhportfolio.netlify.app/">portfolio website <a/> || <a href="https://bgstrip.netlify.app/">Img bg removal App<a/> || <a href="https://xploree.netlify.app/">Xplore travel App<a/> ||  <a href="https://github.com/ShahFH/MultiTaski">MultiTaski<a/> || <a href="https://github.com/ShahFH/CodeBlogee">Blog<a/> for More check out 👆 
 # Let's Connect! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
