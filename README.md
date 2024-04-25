@@ -9,6 +9,11 @@ Hey there! I'm Shah Faisal, an experienced Software Developer with a passion for
 - 📊  Well-versed in employing agile methodologies for iterative and collaborative development.
 - 🌐  Strong foundation in software development principles and the entire software development lifecycle.
 - 📣  Excellent analytical and communication skills to collaborate with cross-functional teams.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,react,astro,threejs,nodejs,express,mongodb,django,py,kali,aws,xd,figma,webflow,blender" />
+  </a>
+</p>
 
 > OpenToWork
 > 
