@@ -11,7 +11,7 @@ Hey there! I'm Shah Faisal, an experienced Software Developer with a passion for
 - 📣  Excellent analytical and communication skills to collaborate with cross-functional teams.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,react,astro,threejs,nodejs,express,mongodb,django,py,kali,aws,xd,figma,webflow,blender" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,astro,threejs,nodejs,express,mongodb,django,py,kali,aws,xd,figma,webflow,blender" />
   </a>
 </p>
 
