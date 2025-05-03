@@ -1,5 +1,5 @@
 Hey there! I'm Shah Faisal, an experienced Developer with a passion for Web design and Development, problem-solving, and a deep understanding of software development principles. I specialize in managing and executing software projects.<br>Check out my <a href="https://shahblogg.netlify.app/">Blog 📒<a/> and 
- <a href="https://shahfaisalh.netlify.app/">My Portfolio <a/> . also check out my recent project <a href="https://yx7x46cv1oxwlldn.vercel.app/">viral linkedin post ai <a/>
+ <a href="https://shahfaisalh.netlify.app/">My Portfolio <a/> . also check out my recent project.
 
 
 ##  Tech stack💼
